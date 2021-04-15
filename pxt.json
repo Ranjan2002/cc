@@ -1,0 +1,26 @@
+{
+    "name": "coding comptation This is a game where you have only 3 lives. When you stand on a blue ball, your score changes by one but when you stand on a red ball your live decreases by one. You can even change your gender by clicking on B p.The default gender is girl, but remember you have only 20 seconds to play this game",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.4.37",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
